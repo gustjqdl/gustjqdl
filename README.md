@@ -19,7 +19,22 @@
   * SQLD 
   * ADSP 
   * 사회조사분석사2급 
-  
+  * GAIQ
   
 #### Honors & Awards
-  * CRM·디지털 마케팅 
+  ##### Awards
+  * CRM·디지털 마케팅 전략개발 프로젝트_장려상 (Hansung University)
+  * 창직경진대회-우수상 (Ministry of Employment and Labor)
+  * IPP우수 수료자 최우수상 (Hansung University)
+  * 2020 Big Contest Innvation advance to the finals
+  
+  
+  ##### Honors
+  * Academic Excellent Scholarship (2014.09)
+  * Academic Excellent Scholarship (2015.03)
+  * Academic Excellent Scholarship (2018.03)
+  * IPP Excellent Scholarship (2019.03)
+  
+  
+  
+![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=gustjqdl&show_icons=true)
