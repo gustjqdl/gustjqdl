@@ -1,6 +1,8 @@
 ### gustjqdl1018@naver.com👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgustjqdl&count_bg=%2379C83D&title_bg=%234B4444&icon=reverbnation.svg&icon_color=%23CB6868&title=hits&edge_flat=True)](https://hits.seeyoufarm.com)
 
-
+### Do you want to know moore about me ? 
+Please Click and Read :) 
+https://www.notion.so/James-Kim-5520cf1a061b43c39e212f5c2027a27d
 
 #### Eduaction 
   * Undergraduate Student at Hansung University
