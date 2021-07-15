@@ -22,6 +22,7 @@ https://www.notion.so/James-Kim-5520cf1a061b43c39e212f5c2027a27d
   * ADSP 
   * 사회조사분석사2급 
   * GAIQ
+  * Tableau Desktop Specialist
   
 #### Honors & Awards
   ##### Awards
