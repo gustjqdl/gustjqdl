@@ -8,8 +8,7 @@
 
 <div align = 'center'> 
 
-![1111](https://user-images.githubusercontent.com/63186859/147867170-9f28b216-c477-44f1-9a48-6cf6336e61d6.jpg)
-
+<img src="https://user-images.githubusercontent.com/63186859/147867170-9f28b216-c477-44f1-9a48-6cf6336e61d6.jpg" width="500" height="300">
 
 </div>
 
