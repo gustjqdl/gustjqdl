@@ -1,11 +1,5 @@
 <h1 align = 'center'> Hello Nice to meet you👋 </h1>
 
-<div align='center'>
-  
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/%ED%98%84%EC%84%AD-%EA%B9%80-861646229/) <a href="https://www.notion.so/James-Kim-5520cf1a061b43c39e212f5c2027a27d" target="_blank"><img src="https://img.shields.io/badge/Notion-2f3332?style=flat-square&logo=Notion&logoColor=white"/></a> <a href="https://sobee-studying.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tstory-ffc926?style=flat-square&logo=Storyblok&logoColor=white"/></a> 
-</div>
-
-
 <div align = 'center'> 
 
 <img src="https://user-images.githubusercontent.com/63186859/147867170-9f28b216-c477-44f1-9a48-6cf6336e61d6.jpg" width="500" height="300">
@@ -26,6 +20,13 @@ I wanna change the world more better through a new service experience😁
 
 <br>
 <br>
+
+<div align='center'>
+  
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/%ED%98%84%EC%84%AD-%EA%B9%80-861646229/) <a href="https://www.notion.so/James-Kim-5520cf1a061b43c39e212f5c2027a27d" target="_blank"><img src="https://img.shields.io/badge/Notion-2f3332?style=flat-square&logo=Notion&logoColor=white"/></a> <a href="https://sobee-studying.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tstory-ffc926?style=flat-square&logo=Storyblok&logoColor=white"/></a> 
+</div>
+
+
 
 
 <div align='center'>
