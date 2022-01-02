@@ -13,9 +13,12 @@
 
 </div>
 
+<br>
+<br>
 
 <div align='center'>
-I'm James Kim
+  
+<h2>I'm James Kim</h2>
 <br>
 I'm a Financial Marketer at Bank.
 <br>
