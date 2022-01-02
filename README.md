@@ -5,11 +5,14 @@ Please Click and Read :)
 https://www.notion.so/James-Kim-5520cf1a061b43c39e212f5c2027a27d
 
 #### Eduaction 
+
   * Undergraduate Student at Hansung University
   * Major in Business , Minor in CRM(Customer Relationship Management)
   
   
 #### Career & Activiy
+  * working at kookmin Bank (2021.12 ~ )
+  * worked at world vision (2021.02 ~ 2021.12)
   * Intern at LG U+ 알뜰모바일  (2018.05 ~ 2018.12)
   * Educated in Samsung Multicampus_ R과 Python을 위한 빅데이터 시각화 분석 (2019.06 ~ 2019.08)
   * Educated in Yonsei University & Data Industry Promotional Institute_ 빅데이터 분석 (2020.06 ~ 2020.09)
